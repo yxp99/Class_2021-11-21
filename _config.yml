@@ -1,6 +1,6 @@
 # 描述/签名
-name: Jericho
-description: 「さて、どこへ行こうかしらね。ネットは広大だわ」
+name: クラス記録
+description: 「礼を言う。俺はまだまだ強くなれる。」
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -16,18 +16,14 @@ baseurl: /Class_2021-11-21
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://github.com/easonback26/ShadowArchive/blob/master/images/Black_Trinity_Logo.png?raw=true
-
+avatar: https://raw.githubusercontent.com/FromEndWorld/endworld/master/images/logo.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/easonback26/ShadowArchive/blob/master/images/favicon.png?raw=true
-
+favicon: https://raw.githubusercontent.com/FromEndWorld/endworld/master/images/logo.png
 
 # 菜单中的按钮
 navigation:
   - name: ホーム
     url: /
-  - name: 関連
-    url: /about
   - name: 常備
     url: /shortcuts
   - name: アーカイブ
